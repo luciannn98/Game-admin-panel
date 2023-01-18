@@ -1,0 +1,74 @@
+.card {
+	max-width: 13rem;
+	float: left;
+	margin: 10px;
+}
+
+.jumbotron {
+	background-image: url('https://wallpapercave.com/wp/wp2386101.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: absolute;
+	height: 500px;
+}
+
+.page-footer {
+	margin-top: 20px;
+	overflow: hidden;
+	float: left;
+	width: 100%;
+}
+
+.form-row {
+	margin-top: 10px;
+}
+
+.forgot {
+	float: right;
+	margin-top: -50px;
+}
+
+.statistici {
+	margin-left: 10px;
+	margin-top: -50px;
+	text-align: left;
+}
+
+.stats-bg {
+	margin: 10px;
+	height: 40px;
+	width: 300px;
+	padding: 10px;
+	font-weight: bold;
+	text-align: left;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 10px;
+}
+
+.stats-bg:nth-child(1) {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: lime;
+}
+
+.black {
+	color: black;
+}
+
+table thead tr {
+	background-color: #ddd;
+}
+
+.avatar img {
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.8);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.8);
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.8);
+}
